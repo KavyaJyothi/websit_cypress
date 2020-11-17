@@ -1,0 +1,14 @@
+{
+  "name": "panel_recruiter",
+  "version": "1.0.0",
+  "description": "recruiter panel desktop view automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.2.0"
+  }
+}
